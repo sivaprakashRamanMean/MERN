@@ -8,6 +8,7 @@
     "main": "app.js",
     "scripts": {
         "start": "node app.js",
+        "client-install": "cd client && npm install",
         "client": "cd client && npm start",
         "server": "nodemon app.js"
     },
