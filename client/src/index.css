@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.Header {
+    box-shadow: 3px 3px #ccc;
+    border-radius: 5px;
+    padding: 12px 0px 0px 12px;
+}
+.list-box {
+    background: #b1dddb;
+}
